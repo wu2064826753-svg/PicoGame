@@ -1,0 +1,29 @@
+# Unreal Engine generated files
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Plugins/**/Intermediate/
+
+# Generated IDE projects and local settings
+/.vs/
+/.idea/
+/*.sln
+/*.slnx
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Android packages and local signing credentials
+*.apk
+*.aab
+*.obb
+*.keystore
+*.jks
+key.properties
+local.properties
+
+# OS metadata
+.DS_Store
+Thumbs.db
